@@ -30,4 +30,4 @@ Built with an automated system to ensure a smooth process with just one command.
 Just run this command in your VPS terminal:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/destaxyroo/xcode-installer/main/xcode.sh)
+bash <(curl -s https://raw.githubusercontent.com/destaxyroo/xcode-installer/refs/heads/main/xcode.sh)
