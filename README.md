@@ -21,7 +21,6 @@ Built with an automated system to ensure a smooth process with just one command.
 - 🛡️ **Create Node & Location** (Auto Green Node)
 - 🔑 **Recovery Admin** (Create New Admin User)
 - 🌍 **7 Language Support** (English, Indonesia, Malay, Arabic, Chinese, Spanish, French)
-- 🎨 **Cool Terminal UI** (Anime Banner + Custom Emojis)
 
 ---
 
